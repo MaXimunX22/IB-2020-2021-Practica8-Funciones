@@ -27,4 +27,6 @@ int main(int argc, char* argv[]){
     }
 
     std::cout << primos[kNumber-1] << std::endl;
+
+    return 0;
 }

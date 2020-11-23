@@ -52,4 +52,5 @@ int main(int argc, char* argv[]){
     std::cout << "El valor máximo es: " << max << std::endl;
     std::cout << "El valor mínimo es: " << min << std::endl;
 
+    return 0;
 }

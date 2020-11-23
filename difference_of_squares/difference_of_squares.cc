@@ -16,4 +16,6 @@ int main(int argc, char* argv[]){
     const int kNumber = stoi(number);
 
     std::cout << SquareSum(kNumber) - SumSquares(kNumber) << std::endl;
+
+    return 0;
 }
